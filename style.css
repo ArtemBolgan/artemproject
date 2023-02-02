@@ -1,0 +1,11 @@
+body{
+background-color: #005eff
+
+}
+button{
+  padding: 10px;
+  background-color: #b3ff00;
+  border:none;
+  border-radius: 40px;
+  margin-top: 10px;
+}
